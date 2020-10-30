@@ -1,3 +1,3 @@
 # Comic Reader
 
-Clicked https://hanzhuo-gong.github.io/comicReader/ 
+Link: https://hanzhuo-gong.github.io/comicReader/ 
